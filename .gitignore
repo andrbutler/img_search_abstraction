@@ -1,0 +1,6 @@
+/node_modules
+npm-debug.log
+.DS_Store
+dbpass.txt
+google_custom_search_api_key.txt
+/*.env
